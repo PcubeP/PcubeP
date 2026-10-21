@@ -1,125 +1,183 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003B00,100:00FF41&height=200&section=header&text=WAKE%20UP,%20NEO...&fontColor=00FF41&fontSize=48&fontAlignY=38&desc=the%20Matrix%20has%20you%20·%20follow%20the%20green%20rabbit&descAlignY=60&descColor=39FF14&animation=fadeIn" width="100%"/>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Pranit%20Prakash%20Prabhu&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Cloud%20Native%20Developer%20%C2%B7%20AI%2FML%20Engineer&descSize=18&descAlignY=58&descColor=cbd5e1" alt="Pranit Prakash Prabhu" width="100%" />
+```
+██████╗ ██████╗ ██╗   ██╗██████╗ ███████╗██████╗
+██╔══██╗██╔════╝██║   ██║██╔══██╗██╔════╝██╔══██╗
+██████╔╝██║     ██║   ██║██████╔╝█████╗  ██████╔╝
+██╔═══╝ ██║     ██║   ██║██╔══██╗██╔══╝  ██╔═══╝
+██║     ╚██████╗╚██████╔╝██████╔╝███████╗██║
+╚═╝      ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝╚═╝
+```
 
-<a href="https://github.com/PcubeP"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3400&pause=900&color=6366F1&center=true&vCenter=true&width=640&lines=Privacy-first%2C+on-device+AI+in+your+browser;Generative+AI+%C2%B7+LLMs+%C2%B7+RAG+%C2%B7+Prompt+Engineering;Cloud-native+services+%40+SAP+Labs+India;Fluent+in+ISL+%2B+ASL+%E2%80%94+AI+for+accessibility;Shipping+small%2C+polished+web+apps" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=800&color=00FF41&center=true&vCenter=true&width=760&lines=%24+sudo+jack-in+--user+pranit;%3E+decrypting+neural+pattern+...+%5BOK%5D;%3E+Full+Stack+Cloud-Native+Dev+%40+SAP+Labs+India;%3E+AI%2FML+Engineer+%7C+GenAI+%C2%B7+LLMs+%C2%B7+RAG;%3E+privacy-first.+on-device.+servers+optional.;%3E+signs+back+in+ISL+%2B+ASL.+there+is+no+spoon.+_)](https://github.com/PcubeP)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/SAP%20Labs%20India-Sep%202024%E2%80%93Present-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP Labs India" />
-  <img src="https://img.shields.io/badge/Bengaluru-India-475569?style=for-the-badge" alt="Bengaluru, India" />
-  <img src="https://komarev.com/ghpvc/?username=PcubeP&style=for-the-badge&color=6366F1&label=Profile+Views" alt="Profile views" />
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/pranitprabhu"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:pranitprabhup@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/PcubeP"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
+![profile views](https://komarev.com/ghpvc/?username=PcubeP&color=00FF41&style=for-the-badge&label=TRACES+LOGGED)
+![status](https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=for-the-badge)
+![location](https://img.shields.io/badge/LOCATION-BENGALURU_·_IN-39FF14?style=for-the-badge&logo=googlemaps&logoColor=black)
 
 </div>
 
 ---
 
-## Hi, I'm Pranit
+```bash
+pranit@sap-labs:~$ whoami
+```
 
-I'm a **Full Stack Cloud Native Developer & AI/ML Engineer at SAP Labs India**, where I ship production cloud-native services on **SAP BTP** and build with **Generative AI, LLMs, and RAG**. I hold a B.E. in Artificial Intelligence & Machine Learning from New Horizon College of Engineering (CGPA **8.9/10**). Before SAP, I was a **Prompt Engineering Intern at ITC Infotech**, where I built a RAG tool over **60+ internal documents**.
-
-Two things shape almost everything I build:
-
-- **Privacy-first, on-device AI** — I love it when the model runs *on your machine, in your browser*, with no servers and no API keys. Your data stays yours.
-- **Accessibility through AI** — I'm fluent in **Indian Sign Language (ISL)** *and* **American Sign Language (ASL)**, and the intersection of AI and sign-language access is the problem space I care about most.
-
-I also serve as **Scrum Master** for a 10-member squad and was selected as an **SAP Labs India Ambassador**. Off the keyboard: a writer, swimmer, and tennis player, based in Bengaluru.
+```
+> Pranit Prakash Prabhu — I build privacy-first, on-device AI.
+> Full Stack Cloud-Native Developer & AI/ML Engineer @ SAP Labs India.
+>
+> I care about two things most code ignores: your data never leaving
+> your machine — inference runs in the browser, on the device, on your
+> GPU — and software that signs back. Fluent in ISL + ASL, I design for
+> the people most tools forget. GenAI · LLMs · RAG, shipped cloud-native
+> on SAP BTP. "Run the model where the user is, not where the server is."
+```
 
 ---
 
-## What I build, and why
+```bash
+pranit@sap-labs:~$ neofetch
+```
 
-I tend to ship **many small, polished apps** rather than one big thing — most run fully client-side, where your data already is.
+```
+        ▄▄▄▄▄▄▄         pranit@sap-labs
+     ▄█▀▀     ▀▀█▄      ---------------------------------------------------
+    █▀             ▀    OS.......: Generative AI / LLMs (prod build)
+   █    ▄▄▄▄▄▄▄    █    Host.....: SAP Labs India — Bengaluru, KA, IN
+   █   █ PCUBEP █   █   Role.....: Full Stack Cloud-Native Dev · AI/ML Eng
+   █    ▀▀▀▀▀▀▀    █    Kernel...: SAP BTP + SAP AI Core (cloud-native)
+    █▄           ▄█     Uptime...: shipping since Sep 2024
+     ▀█▄▄     ▄▄█▀      Shell....: Python · TypeScript · Java
+        ▀▀▀▀▀▀▀         Runtime..: WebGPU · transformers.js · ONNX · Ollama
+                        Packages.: TensorFlow · PyTorch · HF · FAISS · LangChain
+                        Edu......: B.E. AI & ML — CGPA 8.9/10 (2020-2024)
+                        Prev.....: Prompt Eng Intern @ ITC Infotech (RAG, 60+ docs)
+                        Roles....: Scrum Master (10-dev squad) · SAP Labs Ambassador
+                        Langs....: EN · KN(native) · HI · ISL · ASL
+                        Offline..: writer · swimmer · tennis
+                        Theme....: matrix-green on near-black  ████ ▓▓▓▓ ▒▒▒▒ ░░░░
+```
 
-#### On-device & in-browser AI
-- **[lens-studio](https://github.com/PcubeP/lens-studio)** — an on-device AI image studio. Runs Hugging Face `transformers.js` on **WebGPU**, right in the browser. No servers, no API keys.
-- **[clip-photo-search](https://github.com/PcubeP/clip-photo-search)** — semantic search over *your own* photo library using **CLIP** embeddings, computed entirely on-device.
-- **[resume-critic](https://github.com/PcubeP/resume-critic)** — AI resume critique with streamed scoring, running on your own OpenAI key *or* a local **Ollama** model — your choice.
+---
 
-#### AI + accessibility
-- **[interpreter-connect](https://github.com/PcubeP/interpreter-connect)** — a platform that connects people with sign-language interpreters. The project closest to my heart.
+```bash
+pranit@sap-labs:~$ cat skills.json
+```
 
-#### Practical ML & data, made visual
-- **[Car-Selling-Price](https://github.com/PcubeP/Car-Selling-Price)** — an India used-car price predictor; a gradient-boosting model exported to **ONNX** and run in-browser.
-- **[Indians-EV-adoptability](https://github.com/PcubeP/Indians-EV-adoptability)** — an interactive dashboard of India's EV adoption by year, state, category, and manufacturer.
+```json
+{
+  "ai_ml": ["TensorFlow", "PyTorch", "scikit-learn", "HF Transformers",
+            "Keras", "FAISS", "ChromaDB", "LangChain", "RAG", "Prompt Eng"],
+  "dev":   ["Python", "JavaScript", "TypeScript", "Java", "C/C++",
+            "React", "Node.js", "Flutter", "REST", "Vite"],
+  "cloud": ["SAP BTP", "SAP AI Core", "Azure", "Azure AI", "Docker",
+            "Git", "MySQL"],
+  "edge":  ["WebGPU", "transformers.js", "ONNX runtime", "Ollama", "CLIP"],
+  "signed_languages": ["Indian Sign Language (ISL)",
+                       "American Sign Language (ASL)"]
+}
+```
 
-#### Creative & curious
-- **[the-bubble](https://github.com/PcubeP/the-bubble)** — a cinematic, procedurally animated short film built entirely with HTML Canvas.
-- **[portfolio](https://github.com/PcubeP/portfolio)** — an immersive 3D personal portfolio built with **React Three Fiber**.
-- **[Study](https://pcubep.github.io/Study)** — a personal knowledge base of **58** in-depth technical study guides, deployed **[live on GitHub Pages ↗](https://pcubep.github.io/Study)**.
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,ts,js,java,cpp,react,nodejs,flutter,vite,azure,docker,git,mysql&theme=dark&perline=8" />
+
+</div>
+
+---
+
+```bash
+pranit@sap-labs:~$ ls -la ~/projects/ --featured
+drwxr-xr-x  PRIVACY-FIRST · ON-DEVICE · NO-SERVERS-REQUIRED
+```
+
+| ` ` | repo | what it does |
+|:---:|:-----|:-------------|
+| `▸` | **[lens-studio](https://github.com/PcubeP/lens-studio)** | On-device AI image studio — HF `transformers.js` on **WebGPU**, in-browser. No servers, no API keys. Your images never leave the tab. |
+| `▸` | **[clip-photo-search](https://github.com/PcubeP/clip-photo-search)** | Semantic search over *your own* photo library via **CLIP** embeddings. Fully on-device — search by meaning, zero upload. |
+| `▸` | **[interpreter-connect](https://github.com/PcubeP/interpreter-connect)** | A platform connecting people with **sign-language interpreters**. Accessibility-first — the problem I actually live. |
+| `▸` | **[resume-critic](https://github.com/PcubeP/resume-critic)** | AI resume critique with **streamed scoring** — bring your own OpenAI key or a **local Ollama** model and stay fully offline. |
+| `▸` | **[the-bubble](https://github.com/PcubeP/the-bubble)** | A cinematic, fully **procedural animated short film** built in raw **HTML Canvas**. Code as a camera. |
+| `▸` | **[Study](https://pcubep.github.io/Study)** | Personal knowledge base — **58** in-depth technical study guides, live on GitHub Pages. |
 
 <details>
-<summary><b>More things I've shipped</b></summary>
+<summary><code>pranit@sap-labs:~$ ls ~/projects/ --all   # expand the rest of the arsenal</code></summary>
 
 <br/>
 
-- **[Car-Sizer](https://github.com/PcubeP/Car-Sizer)** — side-by-side visual car comparison with to-scale silhouettes and parking-bay overlays.
-- **[garage-fit](https://github.com/PcubeP/garage-fit)** — tells you whether a car fits your parking space, with a live-camera footprint overlay.
+- **[Car-Sizer](https://github.com/PcubeP/Car-Sizer)** — side-by-side visual car comparison with to-scale silhouettes + parking-bay overlays.
+- **[Car-Selling-Price](https://github.com/PcubeP/Car-Selling-Price)** — India used-car price predictor; gradient-boosting model exported to **ONNX**, run in-browser.
+- **[Indians-EV-adoptability](https://github.com/PcubeP/Indians-EV-adoptability)** — interactive dashboard of India's EV adoption by year, state, category, manufacturer.
+- **[garage-fit](https://github.com/PcubeP/garage-fit)** — tells you if a car fits your parking space, with a **live-camera footprint overlay**.
+- **[portfolio](https://github.com/PcubeP/portfolio)** — an immersive **3D personal portfolio** built with React Three Fiber.
 
 </details>
 
 ---
 
-## Toolkit
+```bash
+pranit@sap-labs:~$ cat /dev/languages
+```
+
+```
+EN   ████████████████████  English                 · fluent
+KN   ████████████████████  Kannada                 · native
+HI   ██████████████░░░░░░  Hindi                    · conversational
+ISL  ████████████████████  Indian Sign Language    · ✋ fluent
+ASL  ████████████████████  American Sign Language  · 🤟 fluent
+----------------------------------------------------------------------
+// code should sign back. accessibility isn't a feature — it's the default.
+```
+
+```bash
+pranit@sap-labs:~$ cat ~/.bashrc   # beyond the terminal
+```
+
+```bash
+alias me='writer | swimmer | tennis'      # analog side-quests
+export SIGN="ISL + ASL"                    # I speak with my hands too
+export MOTTO="ship accessible, private AI"
+```
+
+---
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,js,ts,react,nodejs,flutter,java,cpp,docker,azure,mysql,git,vite&perline=8" alt="Tech stack" />
+### `> ./sysmon --stats`
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=PcubeP&show_icons=true&hide_border=false&bg_color=0D1117&title_color=00FF41&text_color=39FF14&icon_color=00FF41&border_color=00FF41" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PcubeP&layout=compact&hide_border=false&bg_color=0D1117&title_color=00FF41&text_color=39FF14&border_color=00FF41" />
+
+<img src="https://streak-stats.demolab.com/?user=PcubeP&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=39FF14&dates=8B949E&hide_border=false&border=00FF41" height="175" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=PcubeP&theme=matrix&no-frame=true&column=7&margin-w=4" />
 
 </div>
 
-**AI / ML** &nbsp;·&nbsp; TensorFlow &nbsp;·&nbsp; PyTorch &nbsp;·&nbsp; scikit-learn &nbsp;·&nbsp; Hugging Face Transformers &nbsp;·&nbsp; Keras &nbsp;·&nbsp; LangChain &nbsp;·&nbsp; FAISS &nbsp;·&nbsp; ChromaDB &nbsp;·&nbsp; RAG &nbsp;·&nbsp; Prompt Engineering
-
-**Engineering** &nbsp;·&nbsp; Python &nbsp;·&nbsp; JavaScript &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; Java &nbsp;·&nbsp; C/C++ &nbsp;·&nbsp; React &nbsp;·&nbsp; Node.js &nbsp;·&nbsp; Flutter &nbsp;·&nbsp; REST APIs &nbsp;·&nbsp; Vite
-
-**Cloud & Platform** &nbsp;·&nbsp; SAP BTP &nbsp;·&nbsp; SAP AI Core &nbsp;·&nbsp; Azure &nbsp;·&nbsp; Azure AI Services &nbsp;·&nbsp; Docker &nbsp;·&nbsp; MySQL
-
 ---
 
-## A few numbers
+```bash
+pranit@sap-labs:~$ ./contact.sh
+> opening secure channels ...
+```
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=PcubeP&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=PcubeP&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=default" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PcubeP&show_icons=true&count_private=true&include_all_commits=true&hide_border=true" alt="GitHub stats" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=PcubeP&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=PcubeP&layout=compact&langs_count=8&hide_border=true&theme=default" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PcubeP&layout=compact&langs_count=8&hide_border=true" alt="Top languages" />
-</picture>
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-00FF41?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/pranitprabhu)
+[![Email](https://img.shields.io/badge/EMAIL-39FF14?style=for-the-badge&logo=gmail&logoColor=black)](mailto:pranitprabhup@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-00FF41?style=for-the-badge&logo=github&logoColor=black)](https://github.com/PcubeP)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=PcubeP&hide_border=true&theme=tokyonight" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=PcubeP&hide_border=true&theme=default" />
-  <img src="https://streak-stats.demolab.com/?user=PcubeP&hide_border=true" alt="GitHub streak" />
-</picture>
+```
+pranit@sap-labs:~$ logout
+> connection closed. the code is still running.
+> 01010100 01101000 01100101 01110010 01100101  01101001 01110011
+> 01101110 01101111  01110011 01110000 01101111 01101111 01101110
+> [ follow the green rabbit → github.com/PcubeP ]
+```
 
-</div>
-
----
-
-## Beyond code
-
-🖐️ Fluent in **ISL** and **ASL** &nbsp;·&nbsp; 🗣️ English, Kannada (native), Hindi &nbsp;·&nbsp; ✍️ Writer &nbsp;·&nbsp; 🏊 Swimmer &nbsp;·&nbsp; 🎾 Tennis
-
----
-
-<div align="center">
-
-**Let's build something that runs for everyone — privacy-first, on-device, and accessible.**
-
-<a href="https://linkedin.com/in/pranitprabhu"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:pranitprabhup@gmail.com"><img src="https://img.shields.io/badge/Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=120&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF41,100:000000&height=4" width="100%"/>
 
 </div>
