@@ -6,7 +6,8 @@
 
 <a href="https://linkedin.com/in/pranitprabhu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:pranitprabhup@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://pcubep.github.io/Study"><img src="https://img.shields.io/badge/58%20Study%20Guides-181717?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Study Notes" /></a>
+
+<sub>📍 Bengaluru, India · 🧠 AI/ML engineer · 🤟 ISL &amp; ASL signer · ☁️ SAP BTP &amp; Azure</sub>
 
 </div>
 
@@ -23,6 +24,31 @@ I'm a **Full Stack Cloud Native & AI/ML Engineer at SAP Labs India**, based in B
 In between, I ship a *lot* of small, polished web apps, and once in a while I build something purely for the joy of it — like a procedurally animated short film on an HTML canvas.
 
 > **My ethos:** AI should run where you are, keep what's yours, and leave no one out.
+
+---
+
+## 🧠 A little more about me
+
+```yaml
+name:      Pranit Prabhu
+role:      Full Stack Cloud Native + AI/ML Engineer @ SAP Labs India
+also:      Scrum Master (10-person squad) · SAP Labs India Ambassador
+based_in:  Bengaluru, India
+studied:   B.E. Artificial Intelligence & Machine Learning · 8.9/10
+signs_in:  Indian Sign Language (ISL), American Sign Language (ASL)
+speaks:    English, Kannada (native), Hindi
+obsessed:  on-device AI, accessibility, generative AI & RAG, shipping small things well
+off_duty:  writing · swimming · tennis · animating things on a canvas
+```
+
+**What gets me genuinely excited**
+
+- 🔒 **Privacy-first AI** — running real models client-side with WebGPU, ONNX and `transformers.js`. If it can run on your device, it probably should.
+- 🤟 **Accessibility & sign language** — I learned ISL and ASL because I wanted to talk to people, and it quietly changed how I design everything since.
+- 🧬 **Generative AI & RAG** — retrieval pipelines, prompt engineering, embeddings and vector stores, taken all the way to production.
+- ☁️ **Cloud-native craft** — SAP BTP, SAP AI Core, Azure, containers, and the unglamorous plumbing that makes things actually stay up.
+- 🎨 **Creative coding** — canvas animation, procedural art, 3D on the web. Code that makes something move is its own reward.
+- 📚 **Teaching myself in public** — I write long-form technical guides to force myself to actually understand a thing.
 
 ---
 
@@ -75,8 +101,9 @@ A steady stream of small, finished web apps — plus a procedural animated short
 |---|---|---|
 | **[resume-critic](https://github.com/PcubeP/resume-critic)** | AI resume critique with streamed scoring | Bring your own OpenAI key, or run it on a local Ollama model |
 | **[the-bubble](https://github.com/PcubeP/the-bubble)** | A cinematic procedural animated short film | Built entirely with HTML Canvas |
+| **[Study](https://github.com/PcubeP/Study)** | 58 in-depth technical guides, [live on the web](https://pcubep.github.io/Study) | Written to learn, published in case it helps someone else |
 
-<sub>More in the wild: **[portfolio](https://github.com/PcubeP/portfolio)** (immersive 3D, React Three Fiber) · **[garage-fit](https://github.com/PcubeP/garage-fit)** & **[Car-Sizer](https://github.com/PcubeP/Car-Sizer)** (live-camera car fitment) · **[Indians-EV-adoptability](https://github.com/PcubeP/Indians-EV-adoptability)** (interactive EV dashboard) · **[Study](https://pcubep.github.io/Study)** (58 in-depth technical guides, live on the web)</sub>
+<sub>More in the wild: **[portfolio](https://github.com/PcubeP/portfolio)** (immersive 3D, React Three Fiber) · **[garage-fit](https://github.com/PcubeP/garage-fit)** & **[Car-Sizer](https://github.com/PcubeP/Car-Sizer)** (live-camera car fitment) · **[Indians-EV-adoptability](https://github.com/PcubeP/Indians-EV-adoptability)** (interactive EV dashboard)</sub>
 
 ---
 
@@ -138,10 +165,13 @@ A steady stream of small, finished web apps — plus a procedural animated short
 
 ## 🌱 Beyond the code
 
-- 🧭 **Scrum Master** for a 10-person squad, and a selected **SAP Labs India Ambassador**.
+- 🧭 **Scrum Master** for a 10-person squad, and a selected **SAP Labs India Ambassador** — I enjoy the people side of engineering as much as the code.
 - 🔬 Before SAP, a **Prompt Engineering Intern at ITC Infotech** — built a RAG tool over **60+ internal documents**.
+- 🤟 I learned **ISL and ASL** out of curiosity and stayed for the community. It's the single biggest influence on how I think about design.
 - 🗣️ I speak **English** (fluent), **Kannada** (native), **Hindi**, plus **ISL & ASL**.
-- ✍️🏊🎾 Off-screen you'll find me writing, swimming, or on a tennis court — somewhere in **Bengaluru, India**.
+- ✍️ I write — technical guides, and the occasional thing that has nothing to do with computers.
+- 🏊🎾 Off-screen you'll find me swimming or on a tennis court, somewhere in **Bengaluru, India**.
+- ☕ Always up for a conversation about on-device inference, accessible design, or why your favourite car is the wrong size for your garage.
 
 ---
 
