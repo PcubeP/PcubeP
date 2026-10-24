@@ -4,12 +4,19 @@
 
 ### I build AI that runs on *your* device — and signs back.
 
+<a href="https://pcubep.github.io/portfolio-2d/"><img src="https://img.shields.io/badge/Explore%20my%20portfolio-pcubep.github.io%2Fportfolio--2d-FF5B2E?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=0B0D10" height="44" alt="Explore my portfolio at pcubep.github.io/portfolio-2d" /></a>
+
 <a href="https://linkedin.com/in/pranitprabhu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:pranitprabhup@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 <sub>📍 Bengaluru, India · 🧠 AI/ML engineer · 🤟 ISL &amp; ASL signer · ☁️ SAP BTP &amp; Azure</sub>
 
 </div>
+
+> [!IMPORTANT]
+> **🌐 My portfolio is live → [pcubep.github.io/portfolio-2d](https://pcubep.github.io/portfolio-2d/)**
+>
+> A scroll-driven story of what I build and who I am beyond the terminal: projects, sports, cars, reels, and more.
 
 ---
 
@@ -179,6 +186,7 @@ A steady stream of small, finished web apps — plus a procedural animated short
 
 ### Let's build something that respects the people using it.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-pcubep.github.io%2Fportfolio--2d-FF5B2E?style=for-the-badge&logo=githubpages&logoColor=white)](https://pcubep.github.io/portfolio-2d/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pranitprabhu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranitprabhu)
 [![Email](https://img.shields.io/badge/pranitprabhup@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranitprabhup@gmail.com)
 [![GitHub](https://img.shields.io/badge/@PcubeP-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PcubeP)
