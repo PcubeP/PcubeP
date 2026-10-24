@@ -4,7 +4,7 @@
 
 ### I build AI that runs on *your* device — and signs back.
 
-<a href="https://pcubep.github.io/portfolio-2d/"><img src="https://img.shields.io/badge/Explore%20my%20portfolio-pcubep.github.io%2Fportfolio--2d-FF5B2E?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=0B0D10" height="44" alt="Explore my portfolio at pcubep.github.io/portfolio-2d" /></a>
+<a href="https://pcubep.github.io/portfolio-2d/" title="Explore my portfolio"><img src="https://img.shields.io/badge/Why%20P%C2%B3%3F-FF5B2E?style=for-the-badge" height="44" alt="Why P³? Explore my portfolio" /></a>
 
 <a href="https://linkedin.com/in/pranitprabhu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:pranitprabhup@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
