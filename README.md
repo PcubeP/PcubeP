@@ -4,6 +4,8 @@
 
 ### I build AI that runs on *your* device — and signs back.
 
+<a href="https://www.pranitprabhu.com" title="Explore my portfolio"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=06B6D4&center=true&vCenter=true&width=640&height=40&lines=On-device+AI+%E2%80%94+no+servers%2C+no+uploads;Accessibility+first+%E2%80%94+the+best+tech+signs+back;Generative+AI+%26+RAG%2C+taken+to+production;Creative+coding+%E2%80%94+code+that+moves" alt="On-device AI · Accessibility first · Generative AI & RAG · Creative coding" /></a>
+
 <a href="https://www.pranitprabhu.com" title="Explore my portfolio"><img src="https://img.shields.io/badge/Why%20P%C2%B3%3F-FF5B2E?style=for-the-badge" height="44" alt="Why P³? Explore my portfolio" /></a>
 
 <a href="https://linkedin.com/in/pranitprabhu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -168,6 +170,18 @@ A steady stream of small, finished web apps — plus a procedural animated short
 
 </div>
 
+### 🐍 Watch the snake eat my contributions
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PcubeP/PcubeP/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PcubeP/PcubeP/output/github-snake.svg" />
+  <img width="100%" alt="Snake animation eating GitHub contribution squares" src="https://raw.githubusercontent.com/PcubeP/PcubeP/output/github-snake.svg" />
+</picture>
+
+</div>
+
 ---
 
 ## 🌱 Beyond the code
@@ -194,3 +208,5 @@ A steady stream of small, finished web apps — plus a procedural animated short
 <sub>Thanks for stopping by — if any of this resonates, say hi. I always reply.</sub>
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6366F1&height=120&section=footer" alt="" />
