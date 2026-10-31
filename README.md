@@ -110,7 +110,6 @@ A steady stream of small, finished web apps — plus a procedural animated short
 |---|---|---|
 | **[resume-critic](https://github.com/PcubeP/resume-critic)** | AI resume critique with streamed scoring | Bring your own OpenAI key, or run it on a local Ollama model |
 | **[the-bubble](https://github.com/PcubeP/the-bubble)** | A cinematic procedural animated short film | Built entirely with HTML Canvas |
-| **[Study](https://github.com/PcubeP/Study)** | 58 in-depth technical guides, [live on the web](https://pcubep.github.io/Study) | Written to learn, published in case it helps someone else |
 
 <sub>More in the wild: **[portfolio](https://github.com/PcubeP/portfolio)** (immersive 3D, React Three Fiber) · **[garage-fit](https://github.com/PcubeP/garage-fit)** & **[Car-Sizer](https://github.com/PcubeP/Car-Sizer)** (live-camera car fitment) · **[Indians-EV-adoptability](https://github.com/PcubeP/Indians-EV-adoptability)** (interactive EV dashboard)</sub>
 
