@@ -97,6 +97,7 @@ A steady stream of small, finished web apps — plus a procedural animated short
 | **[lens-studio](https://github.com/PcubeP/lens-studio)** | On-device AI image studio | Hugging Face `transformers.js` on WebGPU — fully in-browser, zero servers, no API keys |
 | **[clip-photo-search](https://github.com/PcubeP/clip-photo-search)** | Semantic search over your own photos | CLIP embeddings computed locally — your library never uploads |
 | **[Car-Selling-Price](https://github.com/PcubeP/Car-Selling-Price)** | India used-car price predictor | Gradient-boosting model exported to ONNX, run in the browser |
+| **[P⁴ · PDF editor](https://pcubep.github.io/PeeDeeYeFF/)** | A complete, free in-browser PDF editor | Edit text, images, signatures & pages entirely client-side — your document never uploads |
 
 ### 🤟 AI that includes people — accessibility first
 
